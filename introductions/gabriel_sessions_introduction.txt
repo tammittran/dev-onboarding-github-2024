@@ -1,1 +1,0 @@
-Hi incoming JumboCode developers, I'm Gabriel! I'm super excited to get you all up and running with Git, GitHub, and React.
